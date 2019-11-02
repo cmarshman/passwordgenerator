@@ -12,17 +12,21 @@ The purpose of this page is to generate random passwords, copy them and paste th
 The page automatically prompts you to select a password length. From there it asks if you would like to include special characters, numbers, upper case and lower case 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+TA's, Students
 
-Please make sure to update tests as appropriate.
+Youtube: https://www.youtube.com/watch?v=9sT03jEwcaw 
 
 ## Images
 
+![Beginning_Screen](assets/images/beginning_prompty.png)
+![Password_Genorated](assets/images/password_generated.png)
+
+
 ## Links
 
-Page URL:
+Page URL: https://cmarshman.github.io/passwordgenerator/index.html
 
-GitHub Repo:
+GitHub Repo: https://github.com/cmarshman/passwordgenerator
 
 ## License
 MIT License
