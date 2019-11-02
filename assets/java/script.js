@@ -41,8 +41,8 @@ else {
 
 function generate() {
     var answer = "";
-    for (i = 1; i < howMany; i++) {
-        answer = answer + userChoice.charAt(Math.floor(Math.random() * Math.floor(userChoice.length - 1)))
+    for (i = 1; i <= howMany; i++) {
+        answer = answer + userChoice.charAt(Math.floor(Math.random() * Math.floor(userChoice.length)))
     }
     console.log(answer)
     document.getElementById("yourpassword").value = answer;
