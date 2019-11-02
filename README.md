@@ -18,7 +18,7 @@ Youtube: https://www.youtube.com/watch?v=9sT03jEwcaw
 
 ## Images
 
-![Beginning_Screen](assets/images/beginning_prompty.png)
+![Beginning_Screen](assets/images/beginning_prompt.png)
 ![Password_Genorated](assets/images/password_generated.png)
 
 
