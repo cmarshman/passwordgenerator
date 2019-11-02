@@ -9,7 +9,7 @@ The purpose of this page is to generate random passwords, copy them and paste th
 
 ## Functionality 
 
-The page automatically prompts you to select a password length. From there it asks if you would like to include special characters, numbers, upper case and lower case 
+The page automatically prompts you to select a password length. From there it asks if you would like to include special characters, numbers, upper case and lower case to generate a unique password. It will then allow you co copy that password to your clipboard and paste it into a location you desire.
 
 ## Contributing
 TA's, Students
